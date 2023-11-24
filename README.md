@@ -1,6 +1,4 @@
-# Data science and prediction
-
-## Pedestrian detection thanks to Hitogram of Oriented Gradients
+# Forest fire prediction
 
 Study on the growing phenomenon of forest fires.
 
